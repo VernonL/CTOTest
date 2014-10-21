@@ -1,0 +1,3 @@
+﻿Document DB URI - https://competitiondb.documents.azure.com:443/
+Document DB Primary Key - p5kwgRm8qslUlLyKu+qiMQ2xwt3/Is3WflFWAyFuzM4x1jCp4Fvzwuw72JOITyYrdpP0E4JJgxlDNyjEkvyQkw==
+Document DB Secondary Key - EIeg4TUn5LMEdG0Q7G86mviDf/cOwIIWcATGdQW7jQpoPGQnpVuAIjWDRAwv3fPdmoXx5FRmgMZED6AIbn+gdQ==
